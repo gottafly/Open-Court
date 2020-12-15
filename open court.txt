@@ -1,0 +1,3 @@
+Open court is a project that would be mounted by basketball/vollyball/tenis courts that would show number of people on the courts/area. project would use ai and never show the cam feed only a ui with persons display. 
+
+possible hardware battery, pi4, pi cam, 3d printed waterproof houseing, and solar panal
